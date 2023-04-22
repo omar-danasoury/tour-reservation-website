@@ -1,7 +1,10 @@
 # Tour Reservation Website
+## Introduction
 This website was the final project of **ITCS 333: Internet Software Development**; it scored 19/20.  
-The website is used by users to:  
-1. Create Account  
+## Functional Requirements Of Users
+### Travellers
+The website is used by travellers to:  
+1. Create Account/Log in  
 2. View Available Trips  
 3. View Other Users' Feedback
 4. Reserve Trips
