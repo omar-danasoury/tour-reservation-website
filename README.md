@@ -2,7 +2,6 @@
 ## Introduction
 This website was the final project of **ITCS 333: Internet Software Development**; it scored 19/20. Although the project is delivered, some features will be added over time. The website also does all **CRUD** operations to the database.  
 ### Used Technologies
-[](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg)
 HTML, CSS(+FlexBox, MediaQuery), JavaScript, PHP, MySQL.
 ## Functional Requirements Of Users
 ### Travellers
